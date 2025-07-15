@@ -1,0 +1,9 @@
+{
+  "dmarket_public_key": "e08942e89c9644d9988df6e89c8e27d9088b86920aa91114648bdccce26c7547",
+  "dmarket_private_key": "2db096be869476f9226b014a390d7da4fc6de21cf6c61388a5dbe2603af8f47ce08942e89c9644d9988df6e89c8e27d9088b86920aa91114648bdccce26c7547",
+  "skinport_client_id": "ed3f6da6de4641dcba49c3a1265ea6ae",
+  "skinport_client_secret": "kg/sowGBA7bzHOfDADvld4qfd2VTffZSlPOOPyMJIP68hgzoYOCAWFlPjF1tLjkweMFlaIwXfN6b2EeLflxRsw==",
+  "min_price_usd": 10,
+  "max_price_usd": 50,
+  "min_profit_percentage": 10
+}
